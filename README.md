@@ -6,7 +6,7 @@ This is created by Xamarin Studio.
 # How to use
 ## Download AsReader DLL
 Download the dll file and import the project.  
-<https://developer.asreader.jp/sdk/xamarin/AsReader.dll>
+<https://developer.asreader.jp/sdk/xamarin/comboSDK.dll>
 
 ## Add AsReader protocol
 Add following identifiers to Supported external accessory protocols in plist.
@@ -17,6 +17,9 @@ Add following identifiers to Supported external accessory protocols in plist.
 |ASR-010D, 020D | jp.co.asx.asreader.6dongle.barcode  |
 |ASX-300R, 301R | jp.co.asx.asreader.rfid  |
 |ASR-030D, 031D | jp.co.asx.asreader.6dongle.rfid |
+|ASR-0230D | jp.co.asx.asreader.0230D |
+|ASR-0240D | jp.co.asx.asreader.0240D |
+
 
 ## Required: Add an empty file with an .mm extension
 Even though the file is empty, it must exist.
@@ -26,5 +29,5 @@ For example: dummy.mm
 ## See SDK Manual
 Check the documentation from the following site about how to use the API.
 It is for Objective-C, but the method is almost the same.  
-<http://developer.asreader.jp/sdk/second_en.php>
+<http://developer.asreader.jp/sdk/combo/index_en.html>
 
