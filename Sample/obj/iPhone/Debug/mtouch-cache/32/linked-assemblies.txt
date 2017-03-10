@@ -1,5 +1,0 @@
-/Users/koda/Documents/workspace/xamarin-plugin-asreader-combo-demo/Sample/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
-/Users/koda/Documents/workspace/xamarin-plugin-asreader-combo-demo/Sample/obj/iPhone/Debug/mtouch-cache/32/Link/comboSDK.dll
-/Users/koda/Documents/workspace/xamarin-plugin-asreader-combo-demo/Sample/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
-/Users/koda/Documents/workspace/xamarin-plugin-asreader-combo-demo/Sample/obj/iPhone/Debug/mtouch-cache/32/Link/Sample.exe
-/Users/koda/Documents/workspace/xamarin-plugin-asreader-combo-demo/Sample/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
