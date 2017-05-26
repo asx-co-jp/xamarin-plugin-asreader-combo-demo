@@ -17,8 +17,7 @@ Add following identifiers to Supported external accessory protocols in plist.
 |ASR-010D, 020D | jp.co.asx.asreader.6dongle.barcode  |
 |ASX-300R, 301R | jp.co.asx.asreader.rfid  |
 |ASR-030D, 031D | jp.co.asx.asreader.6dongle.rfid |
-|ASR-0230D | jp.co.asx.asreader.0230D |
-|ASR-0240D | jp.co.asx.asreader.0240D |
+|ASR-0230D, 0240D | jp.co.asx.asreader.0240D |
 
 
 ## Required: Add an empty file with an .mm extension
